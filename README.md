@@ -14,6 +14,7 @@ This game was developed using the Unity input system package that was developed 
 The control basis of this game was developed for an xbox gamepad.
 
 ![Controls](https://user-images.githubusercontent.com/71353999/157933885-56bb1279-1460-46ab-b703-aa16446a2487.png)
+(Controls art by Jordan Brayne)
 
 
 
