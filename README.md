@@ -18,6 +18,7 @@ The control basis of this game was developed for an xbox gamepad.
 
 
 # My Work
+My Contribution to the project was to create the main gameplay systems for the game, this included the player controller, weapon functionality
 
 # Team Members
 Myself
