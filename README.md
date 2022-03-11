@@ -32,6 +32,6 @@ Danny Lee - https://mldanny19.wixsite.com/mldanny
 
 Jordan Brayne - https://jordlbray2310.wixsite.com/home
 
-Dawid Wlodarski - 
+Dawid Wlodarski - https://www.artstation.com/dawid_wlodarski
 
 Pawel Nawrot - (Their Portfolio folder) https://drive.google.com/drive/folders/1P1hUief3OpmhKYkG4noeDU6roNp4nqaQ
