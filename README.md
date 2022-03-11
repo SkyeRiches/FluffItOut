@@ -18,7 +18,11 @@ The control basis of this game was developed for an xbox gamepad.
 
 
 # My Work
-My Contribution to the project was to create the main gameplay systems for the game, this included the player controller, weapon functionality
+My Contribution to the project was to create the main gameplay systems for the game, this included the player controller, weapon functionality, player scoring, map objects like the train going around the map, and more. 
+
+All my Scripts I've written can be found in the folder "Skylar's Scripts" under the scripts folder in the assets:
+
+https://github.com/JoshuaRiches/FluffItOut/tree/main/Fluff%20it%20out!/Assets/Scripts/Skylar's%20Scripts
 
 # Team Members
 Myself
