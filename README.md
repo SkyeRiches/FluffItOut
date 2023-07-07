@@ -9,6 +9,9 @@ The players can select a character to play as out of a choice of a; rabbit, bear
 
 These weapons include such things as: scissors, glue gun, glitter bombs, nail gun and more. In the centre of the map was the ultimate weapon spawn point which would spawn in more powerful weapons that could be used to turn the tide of the game, these weapons include items such as; the void grenade (a grenade that pulls all enemies in range into the centre and slowly damages them), a minigun (a weapon that fires at a higher rate than the rest and gives the user a bit of health in return when damaging an opposing player) and more.
 
+# Video
+https://www.youtube.com/watch?v=fKQnLh3yo28
+
 # Controls
 This game was developed using the Unity input system package that was developed by Unity themselves in order to allow more customisation of control schemes. 
 The control basis of this game was developed for an xbox gamepad.
